@@ -183,3 +183,7 @@
 	color: rgb(255, 255, 255);
 	float: left;
 }
+
+ul #social {
+	display:inline-block
+}
