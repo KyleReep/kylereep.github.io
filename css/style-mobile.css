@@ -184,6 +184,6 @@
 	float: left;
 }
 
-#u12{
-	float: left;
+h3, .social {
+	clear: both;
 }
